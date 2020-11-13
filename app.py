@@ -1,4 +1,4 @@
-from guizero import App, Text, PushButton
+from guizero import App, Text, PushButton, Picture
 
 app = App(title="guizero")
 
